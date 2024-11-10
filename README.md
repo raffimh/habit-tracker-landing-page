@@ -13,8 +13,7 @@ Welcome to the Habit Tracker Landing Page project! This project is a landing pag
 - [License](#license)
 
 ## Image
-
-Check out the live demo of the project [here](https://github.com/raffimh/habit-tracker-landing-page.git).
+![screencapture-localhost-3000-2024-11-10-16_56_48](https://github.com/user-attachments/assets/620db977-76f2-445b-88df-39da2f344f47)
 
 ## Features
 
